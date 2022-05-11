@@ -1,0 +1,117 @@
+h1{
+	color: #fff;
+	font-family: 'Lilita One', cursive;
+	margin-left: 15%;
+	padding-top: 10%;
+
+}
+h6{
+	color: #fff;
+	font-family: 'Montaga', serif;
+	padding-left: 16%;
+	padding-top: 5%;
+
+}
+.navbar{
+	padding:0 0 3.5rem 0 ;
+}
+
+.nav-item{
+	padding: 0 18px;
+}
+
+.nav-link{
+	font-size: 1.2rem;
+	font-family: "Montserrat-light";
+
+}
+#title{
+	background-color: #F24A72;
+}
+.title-image{
+	width: 50%;
+	padding-top: 9%;
+	margin-left: 80px;
+
+}
+
+.Download-button{
+
+	margin-top: 1.5rem;
+	margin-left: 92px;
+
+}
+
+#features{
+	padding: 7% 15%;
+	background-color: #fff;
+	position: relative;
+}
+
+.features-box{
+	text-align: center;
+	padding: 5%;
+}
+
+.icon{
+	color: #0E3EDA;
+	margin-bottom: 1rem;
+}
+
+#testimonials{
+
+text-align: center;
+
+background-color: #88E0EF;
+color: #fff;
+
+}
+
+.carousel-item{
+	padding: 5% 7%;
+}
+
+.testimonials-image{
+	width: 35%;
+	border-radius: 100%;
+	margin-top: 44px;
+}
+
+#footer{
+     
+}
+
+.footer-image{
+	width: 55%;
+	border-radius: 100%;
+	float: left;
+}
+.footer-text{
+	padding-top: 10%;
+	float: right;
+	margin-right: 20px;
+	font-family: 'Gugi', cursive;
+	display: grid;
+}
+.text{
+	font-family: 'KoHo', sans-serif;
+}
+
+@media( max-width : 1028px){
+
+	#title{
+		text-align: center;
+	}
+	.footer-image{
+		padding-left: 30%;
+		width: 80%;
+
+	}
+	.footer-text{
+		text-align: center;
+	}
+	
+
+}
+
+

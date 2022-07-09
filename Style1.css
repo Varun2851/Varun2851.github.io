@@ -1,0 +1,33 @@
+#ServiceCenters{
+	text-align: center;
+	color: #FFC900;
+}
+
+body{
+	background-color : #FFF8F3;
+}
+
+#ServiceCentersName{
+	padding-top: 2%;
+	text-align: center;
+}
+
+@media( max-width : 1024px){
+
+	#ServiceCentersName{
+		text-align: center;
+	}
+
+    h3{
+    	font-size: 1rem;
+    }
+
+    h5{
+    	font-size: 0.7rem;
+    }
+
+    h6{
+    	font-size: 0.5rem;
+    }
+
+}
